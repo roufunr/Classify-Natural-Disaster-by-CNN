@@ -1,0 +1,13 @@
+problem statement
+limitations of previous approaches
+
+dataset
+baseline model
+architecture 
+python libraries
+hyper parameters
+results
+
+summary
+future improvemnets
+
